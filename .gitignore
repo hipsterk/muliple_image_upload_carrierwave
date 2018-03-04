@@ -18,6 +18,9 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ignore post_attachments added by users
+/public/uploads
+
 /node_modules
 /yarn-error.log
 
